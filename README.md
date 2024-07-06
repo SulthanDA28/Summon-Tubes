@@ -25,7 +25,7 @@ Buktikan kelayakan anda sebagai asisten untuk membuat 2 tugas besar dari mata ku
 <div align=center>
 <img src="./img/img2.png">
 <br>
-  <b>Fig 2.</b> Buat tubes sampe adik tingkat minta diundur deadlinenya
+  <b>Fig 2.</b> Buat tubes sampe adik tingkat minta diundur deadlinenya (balaskan dendam kalian mwahaha)
 <br>
 </div>
 
