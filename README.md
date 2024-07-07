@@ -2,7 +2,7 @@
 
 > Task Seleksi Lab IRK created by Sulthan Dzaky Alfaro
 
-versi **6 Juli 2024**
+versi **7 Juli 2024**
 
 
 ## 💡 Latar Belakang
@@ -43,7 +43,7 @@ Untuk setiap spek tubes yang dibuat, diwajibkan untuk memuat minimal informasi b
  - Bonus dari tubes (Bonus harus bersifat masuk akal dan berkaitan dengan fungsionalitas tubes)
 
 ## Hal yang Perlu Diperhatikan
-1. Beban tubes didesain untuk dikerjakan oleh 3 mahasiswa
+1. Beban tubes didesain untuk dikerjakan oleh 2 sampai 3 mahasiswa
 2. Tubes didesain agar selesai dalam waktu 2 minggu
 3. Anda boleh menentukan sendiri platform maupun kakas yang akan digunakan dalam
 pengerjaan tubes terkait
@@ -52,14 +52,14 @@ pengerjaan tubes terkait
     - Spek 1: IF2211 && Spek 2: IF2211 Salah
 5. Menyusun spek tubes untuk lebih dari 2 mata kuliah memungkinkan adanya Bonus
 Point
-6. Spesifikasi tidak boleh sama persis dengan tugas besar tahun tahun sebelumnya, jadikan tugas besar tahun sebelumnya sebagai referensi bukan untuk mengerjakan task ini (bisa tidak dinilai atau pengurangan nilai). 
+6. Spesifikasi tidak boleh sama dengan tugas besar tahun tahun sebelumnya, jadikan tugas besar tahun sebelumnya sebagai referensi bukan untuk mengerjakan task ini (bisa tidak dinilai atau pengurangan nilai). 
 
 
 ## 📂 Pengerjaan dan Pengumpulan
 
-Spesifikasi tugas besar yang telah dibuat disimpan dengan format nama ```KodeMataKuliah_NamaLengkap``` contoh ```IF2123_Sukuntul``` dan disimpan pada google drive (folder). 
+Spesifikasi tugas besar yang telah dibuat disimpan dengan format nama ```KodeMataKuliah_NamaLengkap``` contoh ```IF2123_Sukuntul``` dan disimpan pada google drive (folder). **File dalam format PDF**
 
-Yang dikumpulkan adalah ```LINK KE FOLDER GOOGLE DRIVE YANG BERISI 2 SPEK TUBES``` dan dikumpulkan di web seleksi IRK 
+Yang dikumpulkan adalah **LINK KE FOLDER GOOGLE DRIVE YANG BERISI 2 SPEK TUBES** dan dikumpulkan di web seleksi IRK 
 
 https://seleksi-irk.vercel.app
 
