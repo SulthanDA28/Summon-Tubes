@@ -70,3 +70,14 @@ https://seleksi-irk.vercel.app
  - Kreativitas dalam membuat persoalan tubes
  - Bonus yang terdapat dalam tubes
  - Sesuatu yang ditambahkan diluar informasi wajib
+
+<div align=center>
+<img src="https://lh3.googleusercontent.com/pw/AP1GczOCVcal89-ifbzbBxSP0ue5vmpWukeFQXmWSs-b9UjBVJh1KLqUrBgYc4sOjXYWOpo5k8KrDooEB3GFAFZx7GBLebEC-Y_iwIfdH7NoSzCgap2-D55iVTTuOajNauqi_R9yD05_6Ureh_nQqYvsDNEa=w224-h224-s-no-gm?authuser=0">
+<br>
+  <b>SELAMAT MENGERJAKAN</b>
+<br>
+</div>
+
+<br>
+
+<br>
