@@ -59,7 +59,7 @@ Point
 
 Spesifikasi tugas besar yang telah dibuat disimpan dengan format nama ```KodeMataKuliah_NamaLengkap``` contoh ```IF2123_Sukuntul``` dan disimpan pada file. **File dalam format PDF**. Kedua spesifikasi tugas besar digabung menjadi file zip.
 
-Yang dikumpulkan adalah **LINK KE FILE ZIP YANG BERISI 2 SPEK TUBES** dan dikumpulkan di web seleksi IRK 
+Yang dikumpulkan adalah **LINK (GOOGLE DRIVE) KE FILE ZIP (YANG BERISI 2 SPEK TUBES)** dan dikumpulkan di web seleksi IRK 
 
 https://seleksi-irk.vercel.app
 
