@@ -2,7 +2,7 @@
 
 > Task Seleksi Lab IRK created by Sulthan Dzaky Alfaro
 
-versi **7 Juli 2024**
+versi **16 Juli 2024**
 
 
 ## 💡 Latar Belakang
@@ -57,9 +57,9 @@ Point
 
 ## 📂 Pengerjaan dan Pengumpulan
 
-Spesifikasi tugas besar yang telah dibuat disimpan dengan format nama ```KodeMataKuliah_NamaLengkap``` contoh ```IF2123_Sukuntul``` dan disimpan pada google drive (folder). **File dalam format PDF**
+Spesifikasi tugas besar yang telah dibuat disimpan dengan format nama ```KodeMataKuliah_NamaLengkap``` contoh ```IF2123_Sukuntul``` dan disimpan pada file. **File dalam format PDF**. Kedua spesifikasi tugas besar digabung menjadi file zip.
 
-Yang dikumpulkan adalah **LINK KE FOLDER GOOGLE DRIVE YANG BERISI 2 SPEK TUBES** dan dikumpulkan di web seleksi IRK 
+Yang dikumpulkan adalah **LINK KE FILE ZIP YANG BERISI 2 SPEK TUBES** dan dikumpulkan di web seleksi IRK 
 
 https://seleksi-irk.vercel.app
 
