@@ -2,7 +2,7 @@
 
 > Task Seleksi Lab IRK created by Sulthan Dzaky Alfaro
 
-versi **16 Juli 2024**
+versi **17 Juli 2024**
 
 
 ## 💡 Latar Belakang
@@ -41,6 +41,7 @@ Untuk setiap spek tubes yang dibuat, diwajibkan untuk memuat minimal informasi b
  - Cara pengumpulan tugas
  - Penjelasan lain yang mendukung kejelasan informasi spesifikasi tubes
  - Bonus dari tubes (Bonus harus bersifat masuk akal dan berkaitan dengan fungsionalitas tubes)
+ - Referensi (disini sumber dari tugas besar sekaligus (jika ada) untuk membantu mahasiswa mengerjakan tugas yang dibuat)
 
 ## Hal yang Perlu Diperhatikan
 1. Beban tubes didesain untuk dikerjakan oleh 2 sampai 3 mahasiswa
